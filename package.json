@@ -23,6 +23,7 @@
     "recharts": "^2.7.3"
   },
   "devDependencies": {
+    "@capacitor/assets": "^2.0.4",
     "react-scripts": "5.0.1"
   },
   "eslintConfig": {
